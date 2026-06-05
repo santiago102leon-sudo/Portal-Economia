@@ -1,0 +1,40 @@
+CONFIGURAR GEMINI EN EL PORTAL
+
+1. Entra a Google AI Studio con tu cuenta.
+2. Crea una API Key de Gemini.
+3. Abre tu proyecto de Apps Script del portal.
+4. En el menú izquierdo entra a Configuración del proyecto.
+5. En Propiedades de la secuencia de comandos, agrega:
+   GEMINI_API_KEY = TU_CLAVE_DE_GEMINI
+6. Copia el nuevo archivo google-apps-script/Code.gs en Apps Script.
+7. Guarda.
+8. Implementar > Administrar implementaciones > Editar > Nueva versión.
+9. Ejecutar como: Yo.
+10. Acceso: Cualquier persona.
+11. Prueba la URL /exec.
+
+FUNCIONAMIENTO
+
+- El portal NO guarda la clave en index.html ni portal.js.
+- La clave queda guardada en Apps Script con PropertiesService.
+- La página llama a Apps Script.
+- Apps Script revisa Drive, arma contexto del repositorio y llama a Gemini.
+- Si activas “Apoyo en línea básico”, Gemini usa Google Search Grounding para buscar en línea.
+
+PRUEBAS
+
+Pregunta:
+¿Qué es la inflación en economía?
+
+Pregunta:
+Resuelve paso a paso la derivada de x^2 + 3x - 5.
+
+Pregunta:
+Explícame elasticidad precio de la demanda con ejemplo.
+
+Pregunta:
+Busca en mis PDFs de Drive ejercicios de Álgebra Lineal y explícame qué debo estudiar.
+
+NOTA
+
+Gemini puede generar respuestas mucho más inteligentes, pero depende de tener configurada la API Key. Sin esa clave, el portal seguirá usando la IA local de respaldo.

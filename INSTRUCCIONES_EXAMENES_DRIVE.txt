@@ -1,0 +1,24 @@
+BANCO DE EXÁMENES VINCULADO CON GOOGLE DRIVE
+
+1. Para subir un examen, entra a Google Drive y abre:
+   Repositorio Economía / Ciclo / Materia / Exámenes
+
+2. Sube el PDF del examen dentro de esa carpeta. Ejemplo:
+   Repositorio Economía / Primer Ciclo / Matemáticas I / Exámenes / Final 2025.pdf
+
+3. En tu portal, entra a Académico → Exámenes y pulsa “Reintentar sincronización”.
+
+4. El examen aparecerá como tarjeta con botones:
+   - Vista previa
+   - Abrir en Drive
+   - Descargar
+   - Añadir al calendario
+
+5. Si no aparece, revisa que:
+   - Apps Script esté publicado como Web App.
+   - Ejecutar como: Yo.
+   - Acceso: Cualquier persona.
+   - El archivo Code.gs actualizado esté pegado y guardado.
+   - La carpeta o archivo esté compartido como Cualquier persona con el enlace → Lector.
+
+NOTA: No se suben PDFs directamente a la página. Se suben a Google Drive y el portal los lee automáticamente.

@@ -1,0 +1,569 @@
+# Estructura exacta de carpetas para Google Drive
+
+Carpeta raíz: `Repositorio Economía`
+
+## Primer Ciclo
+- `Primer Ciclo/Álgebra Lineal/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Primer Ciclo/Contabilidad General/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Primer Ciclo/Historia Económica/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Primer Ciclo/Estadística I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Primer Ciclo/Matemáticas I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Primer Ciclo/Fundamentos de Programación/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Segundo Ciclo
+- `Segundo Ciclo/Matemáticas II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Segundo Ciclo/Estadística II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Segundo Ciclo/Contabilidad de Costos/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Segundo Ciclo/Introducción a la Microeconomía/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Segundo Ciclo/Derecho Económico y Empresarial/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Segundo Ciclo/Teoría de los Grupos Sociales y del Estado/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Tercer Ciclo
+- `Tercer Ciclo/Medición Económica/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Tercer Ciclo/Matemática Financiera/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Tercer Ciclo/Microeconomía I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Tercer Ciclo/Estadística III/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Tercer Ciclo/Investigación de Mercados/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Tercer Ciclo/Historia del Pensamiento Económico/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Cuarto Ciclo
+- `Cuarto Ciclo/Econometría I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Cuarto Ciclo/Métodos Dinámicos en Economía/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Cuarto Ciclo/Macroeconomía I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Cuarto Ciclo/Microeconomía II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Cuarto Ciclo/Economía Política/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Cuarto Ciclo/Investigación Económica/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Quinto Ciclo
+- `Quinto Ciclo/Investigación Operativa/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Econometría II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Finanzas Corporativas I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Microeconomía III/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Macroeconomía II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Teoría de Juegos/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Quinto Ciclo/Prácticas de Servicio Comunitario/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Sexto Ciclo
+- `Sexto Ciclo/Econometría III/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Sexto Ciclo/Crecimiento y Desarrollo/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Sexto Ciclo/Economía Internacional/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Sexto Ciclo/Finanzas Corporativas II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Sexto Ciclo/Macroeconomía III/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Sexto Ciclo/Planificación Económica/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Séptimo Ciclo
+- `Séptimo Ciclo/Análisis Multivariante/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Organización Industrial/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Política Económica/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Formulación y Gestión de Proyectos/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Finanzas Internacionales/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Unidad de Integración Curricular I/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Séptimo Ciclo/Práctica Laboral/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+
+## Octavo Ciclo
+- `Octavo Ciclo/Economía Experimental y del Comportamiento/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Octavo Ciclo/Diseño y Evaluación de Programas y Políticas Públicas/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Octavo Ciclo/Finanzas Públicas/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Octavo Ciclo/Evaluación Financiera, Económica y Social de Proyectos/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Octavo Ciclo/Fundamentos de Administración/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`
+- `Octavo Ciclo/Unidad de Integración Curricular II/`
+  - `Apuntes`
+  - `Diapositivas`
+  - `Guías`
+  - `Ejercicios`
+  - `Exámenes`
+  - `Lecturas`
+  - `Videos`
+  - `Clases grabadas`
+  - `Proyectos`
+  - `Adicional`

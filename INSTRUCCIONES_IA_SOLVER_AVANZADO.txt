@@ -1,0 +1,32 @@
+IA ACADÉMICA MEJORADA - SOLVER LOCAL
+
+Esta versión mejora la IA académica para que no solo busque coincidencias en el portal, sino que también resuelva ejercicios comunes paso a paso sin depender de internet.
+
+Puede resolver:
+- Derivadas básicas: 2x, x^2 + 3x - 5, ln(x), e^x, sen(x), cos(x).
+- Integrales básicas de polinomios.
+- Límites simples por sustitución en polinomios.
+- Ecuaciones lineales.
+- Ecuaciones cuadráticas.
+- Sistemas 2x2 con x e y.
+- Determinantes 2x2.
+- Porcentajes.
+- Promedios.
+- Binomial básica con n, p y x.
+- Elasticidad precio con datos iniciales y finales.
+
+Ejemplos de preguntas:
+- Resuelve paso a paso la derivada de 2x.
+- Derivada de x^2 + 3x - 5.
+- Integral de 2x + 4.
+- Resuelve x^2 - 5x + 6 = 0.
+- Sistema: 2x+3y=5; x-y=1.
+- Determinante de 1 2 3 4.
+- Calcula 15% de 380.
+- Promedio de 14, 16, 18.
+- Binomial n=10 p=0.3 x=4.
+
+Importante:
+- Esto sigue siendo JavaScript local, no un modelo de IA real como ChatGPT.
+- Para una IA realmente potente que lea libros completos, PDFs y responda cualquier problema complejo, se necesita conectar una API de IA en un backend seguro o Apps Script con un servicio externo.
+- Esta versión mejora mucho el comportamiento sin exponer claves ni usar backend de pago.

@@ -1,0 +1,8 @@
+URL de Apps Script configurada en portal.js:
+
+https://script.google.com/macros/s/AKfycbynnZtenIpd_qiLbfJgfLfubWFQ90Q-Hm9aYwQMQhDf4GtTW9aNH_n8zc8d4or6VCk-Yg/exec
+
+ID de implementación recibido:
+AKfycbynnZtenIpd_qiLbfJgfLfubWFQ90Q-Hm9aYwQMQhDf4GtTW9aNH_n8zc8d4or6VCk-Yg
+
+Nota: en el frontend se usa la URL completa que termina en /exec. El ID solo sirve como referencia de la implementación.

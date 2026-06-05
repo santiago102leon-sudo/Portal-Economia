@@ -1,0 +1,116 @@
+CONFIGURACIÓN DEL REPOSITORIO AUTOMÁTICO CON GOOGLE DRIVE
+
+Correo recomendado para crear y publicar el Apps Script:
+santiago102leon@gmail.com
+
+IMPORTANTE:
+No se puede “vincular” el correo desde el código HTML. Lo correcto es iniciar sesión en Google con ese correo, crear el Apps Script desde esa cuenta y publicar la Web App ejecutándose como dueño.
+
+1. ESTRUCTURA EXACTA EN GOOGLE DRIVE
+
+Crea una carpeta raíz, por ejemplo:
+Repositorio Economía
+
+Dentro crea estas carpetas de ciclos:
+Primer Ciclo
+Segundo Ciclo
+Tercer Ciclo
+Cuarto Ciclo
+Quinto Ciclo
+Sexto Ciclo
+Séptimo Ciclo
+Octavo Ciclo
+
+Dentro de cada ciclo crea las carpetas de materias exactamente como están en tu portal.
+Ejemplo:
+Repositorio Economía
+└── Tercer Ciclo
+    └── Microeconomía I
+        ├── Apuntes
+        ├── Diapositivas
+        ├── Guías
+        ├── Ejercicios
+        ├── Exámenes
+        ├── Lecturas
+        ├── Videos
+        ├── Clases grabadas
+        ├── Proyectos
+        └── Adicional
+
+Puedes subir PDFs dentro de cada carpeta. Por ejemplo:
+Repositorio Economía / Tercer Ciclo / Microeconomía I / Apuntes / Apunte 1.pdf
+
+2. CONFIGURAR APPS SCRIPT
+
+- Entra con el correo: santiago102leon@gmail.com
+- Ve a https://script.google.com/
+- Crea un proyecto nuevo.
+- Borra el contenido inicial y pega el archivo google-apps-script/Code.gs.
+- En Drive, abre la carpeta raíz “Repositorio Economía”.
+- Copia el ID de la carpeta desde la URL.
+  Ejemplo de URL:
+  https://drive.google.com/drive/folders/1ABCDEF123456789
+  El ID es:
+  1ABCDEF123456789
+- En Code.gs cambia:
+  const ROOT_FOLDER_ID = 'PEGA_AQUI_EL_ID_DE_TU_CARPETA_RAIZ';
+  por el ID real de tu carpeta.
+
+3. PERMISOS DE ARCHIVOS
+
+Para que los estudiantes puedan ver los iframes:
+- Clic derecho en la carpeta raíz o archivos.
+- Compartir.
+- Acceso general: Cualquier persona con el enlace.
+- Rol: Lector.
+
+Si quieres que el script intente hacerlo automáticamente, cambia en Code.gs:
+const MAKE_FILES_PUBLIC = false;
+por:
+const MAKE_FILES_PUBLIC = true;
+
+4. PUBLICAR COMO WEB APP
+
+- En Apps Script, clic en Implementar / Deploy.
+- Nueva implementación.
+- Tipo: Aplicación web / Web app.
+- Ejecutar como: Yo.
+- Quién tiene acceso: Cualquier persona.
+- Autoriza los permisos.
+- Copia la URL que termina en /exec.
+
+5. PEGAR LA URL EN TU PORTAL
+
+Abre portal.js y busca:
+const DRIVE_REPOSITORY_API_URL = "";
+
+Pega la URL así:
+const DRIVE_REPOSITORY_API_URL = "https://script.google.com/macros/s/TU_ID_DE_IMPLEMENTACION/exec";
+
+Guarda y sube de nuevo tu página a GitHub Pages o tu hosting.
+
+6. RESULTADO
+
+Cuando entres al repositorio de tu portal:
+- Se cargan los documentos desde Google Drive.
+- Se organizan por ciclo, materia y categoría.
+- Los PDFs se muestran dentro de la página con iframe.
+- Ya no tienes que subir PDFs pesados a la web.
+
+7. CACHÉ Y DIAGNÓSTICO
+
+El Apps Script actualizado usa caché durante 15 minutos para que el repositorio cargue más rápido.
+La primera sincronización puede tardar, pero las siguientes deben responder mucho más rápido.
+
+En el panel administrador del portal abre la pestaña Drive para ver:
+- Estado de conexión.
+- URL /exec configurada.
+- ID de carpeta raíz.
+- Cantidad de archivos encontrados.
+- Última sincronización.
+- Botón para reintentar sincronización.
+
+Si agregas archivos nuevos y quieres forzar lectura completa de Drive:
+- Entra al panel administrador.
+- Abre la pestaña Drive.
+- Pulsa Reintentar sincronización.

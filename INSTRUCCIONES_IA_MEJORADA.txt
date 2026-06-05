@@ -1,0 +1,27 @@
+IA ACADÉMICA MEJORADA
+
+1. La IA ahora responde usando:
+- Datos internos del portal.
+- Materias y ciclos.
+- Banco de fórmulas.
+- Materiales y PDFs sincronizados desde Google Drive.
+- Exámenes, ejercicios, guías y lecturas.
+- Extractos de libros agregados por el administrador.
+- Solucionador básico de ejercicios: porcentajes, promedios, operaciones y ecuaciones lineales simples.
+
+2. Para que busque más en Drive:
+- Copia el nuevo google-apps-script/Code.gs en tu proyecto de Apps Script.
+- Guarda.
+- Implementar > Administrar implementaciones > Editar > Nueva versión.
+- Ejecutar como: Yo.
+- Acceso: Cualquier persona.
+- Copia la URL /exec si cambia y pégala en portal.js.
+
+3. Sobre PDFs:
+- La IA puede encontrar PDFs por nombre, materia y carpeta.
+- Si quieres que responda con texto largo de un libro PDF, pega extractos autorizados en la base de libros desde modo administrador.
+- Apps Script puede leer mejor Google Docs y TXT. Los PDFs escaneados no siempre permiten extraer texto.
+
+4. Apoyo en línea:
+- Si activas “Apoyo en línea básico”, la IA intentará consultar un resumen público en línea.
+- No muestra bibliografía; solo usa ese apoyo para complementar la respuesta.
